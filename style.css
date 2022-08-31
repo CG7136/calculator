@@ -15,10 +15,19 @@ html, body{
 }
 
 .row input{
-    font-size: 23px;
+    font-size: 20px;
     margin: 10px 0px;
-    padding: 10px 13px;
+    padding: 15px 0px 10px 0px;
     border: 1px solid  black;
     border-radius: 5px;
+    text-align: center;
+}
+
+.btnnew{
+    padding: 20px 27px;
+    margin: 0px 3px;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
 }
 
